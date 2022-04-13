@@ -20,3 +20,7 @@ Programı Türkçe başlatmak için exeTR yürütülebilir dosyasını çalışt
 .txt dosyası, yedeklemelerinizi aşağıdaki kodla gruplandırır:
 - düzensiz fiillerin bir kısmı için + puanınız
 - v klasik fiillerin bir kısmı için + puanınız
+
+
+WHAT DID I DO IN THIS PROJECT ?
+-Everything, i did it by my own
