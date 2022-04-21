@@ -1,5 +1,5 @@
 # Verbs_Spanish
-Ce dépôt est un programme permettant d'aprendre les verbes en espagnol.
+Ce dépôt est un programme permettant d'aprendre les verbes en espagnol, que j'ai réalisé en autonomie au cours de mon Erasmus en Espagne.
 
 Vous pouvez lancer l'exécutable exeFR pour lancer le programme en français
 
@@ -20,7 +20,3 @@ Programı Türkçe başlatmak için exeTR yürütülebilir dosyasını çalışt
 .txt dosyası, yedeklemelerinizi aşağıdaki kodla gruplandırır:
 - düzensiz fiillerin bir kısmı için + puanınız
 - v klasik fiillerin bir kısmı için + puanınız
-
-
-WHAT DID I DO IN THIS PROJECT ?
--Everything, i did it by my own
